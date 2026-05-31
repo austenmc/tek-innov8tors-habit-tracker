@@ -1,0 +1,5 @@
+/* Global CSS file for NativeWind/TailwindCSS */
+/* These directives inject Tailwind's base styles, components, and utilities */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
